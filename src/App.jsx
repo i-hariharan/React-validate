@@ -8,7 +8,7 @@ import Register from "./components/Register";
   const router = createBrowserRouter([
     
     {
-        path:"/register",
+        path:"/React-validate/",
         element:<Register></Register>
     }
     ]);
